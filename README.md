@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tbeau117
 - 👀 I’m interested in learning new things and challenging myself
-- 🌱 I’m currently learning Javascript!!
+- 🌱 I’m currently learning HTML, CSS, and Javascript!!
 - 📫 tbeau117@gmail.com
 
 <!---
